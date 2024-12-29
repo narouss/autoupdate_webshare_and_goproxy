@@ -1,2 +1,3 @@
 # autoupdate_webshare_and_goproxy
 1.自动获取webshare代理的ip，更新到阿里dns的proxy.x.xdns解析记录
+2.自动获取webshare代理的port，更新到goproxy的5条规则里
